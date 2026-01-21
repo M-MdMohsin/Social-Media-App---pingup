@@ -24,8 +24,8 @@ export const menuItemsData = [
 ];
 
 export const dummyUserData = {
-    "_id": "user_2zdFoZib5lNr614LgkONdD8WG32",
-    "email": "admin@example.com",
+    "_id": "user_38TPvuKifRivJu1hZPoVpc6xiOS",
+    "email": "bingo750951@gmail.com",
     "full_name": "John Warren",
     "username": "john_warren",
     "bio": "🌍 Dreamer | 📚 Learner | 🚀 Doer\r\nExploring life one step at a time.\r\n✨ Staying curious. Creating with purpose.",
